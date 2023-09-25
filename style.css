@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+*{
+    font-family: 'DM Sans', sans-serif;
+    background-color: black;
+    color: white;
+    font-size: small;
+}
+
+.background-black
+{
+    background-color: black;
+    padding: 50%;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+.sidebar .logo img
+{
+    height: 35px;
+    width: auto;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.navigation
+{
+    background-color: black;
+    padding-left: 10px;
+    margin-top: 40px;
+}
+
+ul li
+{
+    margin-bottom: 15px;
+}
+
+.playlists
+{
+    margin-top: 60px;
+    padding-left: 10px;
+}
+
+.install
+{
+    padding-left: 10px;
+    margin-top: 60px;
+}
+
+.navigation .home img
+{
+    height: 20px;
+    width: auto;
+    margin-right: 15px;
+}
+
+.navigation .search img
+{
+    height: 20px;
+    width: auto;
+    margin-right: 15px;
+}
+
+.navigation .library img
+{
+    height: 20px;
+    width: auto;
+    margin-right: 15px;
+}
+
+.navigation .create-playlist img
+{
+    height: 20px;
+    width: auto;
+    margin-right: 15px;
+}
+
+.navigation .liked-songs img
+{
+    height: 20px;
+    width: auto;
+    margin-right: 15px;
+}
+
+.navigation .your-ep img
+{
+    height: 20px;
+    width: auto;
+    margin-right: 15px;
+}
+
+.install img
+{
+    height: 20px;
+    width: auto;
+    margin-right: 15px;
+}
